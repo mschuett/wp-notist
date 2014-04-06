@@ -1,6 +1,6 @@
 # WordPress shortcode for Slideshare icon
 
-A /very/ simple WP plugin. Defines the shortcode
+A _very_ simple WP plugin. Defines the shortcode
 
     [slideshare url="http://www.slideshare.net/..."]
 
