@@ -17,7 +17,7 @@ function ms_notist_shortcode_handler( $atts ) {
     ), $atts));
     $pluginurl = plugin_dir_url(__FILE__);
 
-    return '<a href="'.$url.'"><img style="height: .5em; padding: 0; margin: 0;" src="'.$pluginurl.'/noti.st_32px.png" alt="link to noti.st" /></a>';
+    return '<a href="'.$url.'"><img style="height: .5em; padding: 0; margin: 0;" src="'.$pluginurl.'/notist_32px.png" alt="link to noti.st" /></a>';
 }
 
 if ( ! shortcode_exists( 'noti.st' ) ) {
